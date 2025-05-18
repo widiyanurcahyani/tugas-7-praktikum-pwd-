@@ -1,0 +1,10 @@
+* { box-sizing: border-box; font-family: Arial, sans-serif; }
+body { background:#f4f7fa; margin:0; padding:40px; }
+.container { max-width:800px; margin:auto; background:#fff;
+             padding:25px 40px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,.08); }
+h1 { text-align:center; margin-bottom:25px; color:#333; }
+table { width:100%; border-collapse:collapse; }
+thead { background:#4e73df; color:#fff; }
+th, td { padding:12px 15px; text-align:left; }
+tbody tr:nth-child(odd) { background:#f8f9fc; }
+tbody tr:hover { background:#d1d8ff; }
